@@ -1,4 +1,3 @@
-# miniguia-estudos-notebooklm
+# 📊 Caderno Temático PMBOK (6ª vs. 7ª Edição) com NotebookLM
 
-O projeto trata do notebookLM. Para isso, será criado um notebook que trata do COSIF e norma do Bacen. O arquivo está disponível em https://notebook.google.com/notebook/a58ae964-6b2f-4b12-8a70-31363e04cf6e
-
+> Estudo comparativo e analítico sobre a evolução do gerenciamento de projetos: da rigidez dos processos e ITTOs à adaptabilidade dos domínios de desempenho e entrega de valor.
